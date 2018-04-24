@@ -4,7 +4,7 @@ Microsoft Visual C++ 7.0 CLI for Msys2
 
 ## Install
 * Clone the repo to local
-* Uncompress msvc7.tar.gz and move `msvc7` directory into /opt/msvc7
+* Uncompress msvc7.tar.gz and move `msvc7` directory into /opt/
 ```
 	$ cd MSVC-CLI
 	$ tar -zxvf msvc7.tar.gz
@@ -14,5 +14,5 @@ Microsoft Visual C++ 7.0 CLI for Msys2
 ## Usage
 ```
 $ bash
-$ source /opt/msvc/env
+$ source /opt/msvc7/env
 ```
